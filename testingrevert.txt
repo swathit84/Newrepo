@@ -1,8 +1,5 @@
 change1
-<<<<<<< HEAD
 change2
 change3
 change3.
 change4
-=======
->>>>>>> parent of 643cfa4... second commit
